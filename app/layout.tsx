@@ -1,4 +1,1 @@
-import './globals.css';
-import type { Metadata } from 'next';
-export const metadata: Metadata = {title:'E-Food — Good food, good mood',description:'Fresh food, delivered with love.'};
-export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
+import './globals.css';import type {Metadata} from 'next';export const metadata:Metadata={title:'Dapur Ummi Kyana Palembang | E-Food',description:'Pilihan hidangan rumahan dan katering Palembang.'};export default function Layout({children}:{children:React.ReactNode}){return <html lang="id"><body>{children}</body></html>}
