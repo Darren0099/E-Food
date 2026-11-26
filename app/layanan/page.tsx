@@ -1,0 +1,1 @@
+import ServiceScreen from './ServiceScreen';export const metadata={title:'Layanan Katering | Dapur Ummi Kyana'};export default function Page(){return <ServiceScreen/>}
